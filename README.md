@@ -1,3 +1,3 @@
 # learning-git
 
-Learning verssion control from amigoscode
+Learning version control from amigoscode
